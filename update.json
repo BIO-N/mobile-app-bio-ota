@@ -1,0 +1,8 @@
+{
+  "version": 17,
+  "versionName": "0.4.5",
+  "type": "patch",
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/BIO-N/mobile-app-bio-ota/main/releases/0.4.5/index.android.bundle.zip",
+  "downloadIosUrl": "https://raw.githubusercontent.com/BIO-N/mobile-app-bio-ota/main/releases/0.4.5/main.jsbundle.zip",
+  "changelog": "Dev"
+}
